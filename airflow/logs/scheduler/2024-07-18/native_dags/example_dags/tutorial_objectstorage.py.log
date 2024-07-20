@@ -1,0 +1,11 @@
+[2024-07-18T22:56:20.586+0400] {processor.py:161} INFO - Started process (PID=82154) to work on /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-07-18T22:56:20.589+0400] {processor.py:830} INFO - Processing file /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-07-18T22:56:20.593+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:20.592+0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-07-18T22:56:20.702+0400] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-07-18T22:56:22.190+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.188+0400] {override.py:1858} INFO - Created Permission View: can read on DAG:tutorial_objectstorage
+[2024-07-18T22:56:22.239+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.238+0400] {override.py:1858} INFO - Created Permission View: can delete on DAG:tutorial_objectstorage
+[2024-07-18T22:56:22.280+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.279+0400] {override.py:1858} INFO - Created Permission View: can edit on DAG:tutorial_objectstorage
+[2024-07-18T22:56:22.283+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.282+0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-18T22:56:22.310+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.309+0400] {dag.py:3111} INFO - Creating ORM DAG for tutorial_objectstorage
+[2024-07-18T22:56:22.312+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:22.311+0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-07-18T22:56:22.396+0400] {processor.py:183} INFO - Processing /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 1.830 seconds

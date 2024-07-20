@@ -1,0 +1,16 @@
+File already exists 2024-07-15 10:30:47.706298
+Existing file removed 2024-07-15 10:34:53.149376
+File downloaded successfully 2024-07-15 10:38:28.378213
+Geo Data Job Started 2024-07-18 16:20:54.229765
+Data Readed Sucessfully 2024-07-18 16:20:57.250809
+Geo Data Job Error: 'DataFrame' object has no attribute 'address' 2024-07-18 16:20:57.452028
+Geo Data Job Started 2024-07-18 16:21:40.447190
+Data Readed Sucessfully 2024-07-18 16:21:43.822962
+Geo Data Job Error: 'DataFrame' object has no attribute 'address' 2024-07-18 16:21:44.034971
+Geo Data Job Started 2024-07-18 16:22:15.939550
+Data Readed Sucessfully 2024-07-18 16:22:18.923188
+Geo Data Job Error: 'DataFrame' object has no attribute 'address' 2024-07-18 16:22:19.131549
+Geo Data Job Started 2024-07-18 17:00:27.607376
+Data Readed Sucessfully 2024-07-18 17:00:31.699811
+Geo Data Collected Sucessfully 2024-07-18 17:32:12.318274
+Geo Data Job Ended 2024-07-18 17:32:28.767075

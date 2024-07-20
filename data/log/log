@@ -1,0 +1,15 @@
+Geo Data Job Started 2024-07-18 19:42:25.257998
+Geo Data Job Error: [Errno 2] No such file or directory: '../data/half cooked/transactions.parquet' 2024-07-18 19:42:25.419707
+Geo Data Job Started 2024-07-18 19:43:16.990636
+Geo Data Job Error: [Errno 2] No such file or directory: '../data/half cooked/transactions.parquet' 2024-07-18 19:43:17.143438
+Geo Data Job Started 2024-07-18 19:45:50.024630
+Data Readed Sucessfully 2024-07-18 19:45:53.768920
+Existing file removed 2024-07-19 20:10:19.693948
+File downloaded successfully 2024-07-19 20:14:00.716839
+Transform job started 2024-07-19 20:24:17.467226
+processing transaction data 2024-07-19 20:24:17.471151
+transaction data processed 2024-07-19 20:25:44.419291
+joining data 2024-07-19 20:25:44.424735
+joining data 2024-07-19 20:28:20.276091
+data joined 2024-07-19 20:28:31.393964
+Transform job Finished 2024-07-19 20:28:31.397016

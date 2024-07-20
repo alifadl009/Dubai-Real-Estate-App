@@ -1,0 +1,11 @@
+[2024-07-18T22:56:13.558+0400] {processor.py:161} INFO - Started process (PID=82125) to work on /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-07-18T22:56:13.560+0400] {processor.py:830} INFO - Processing file /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2024-07-18T22:56:13.565+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:13.564+0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-07-18T22:56:13.695+0400] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-07-18T22:56:15.199+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.198+0400] {override.py:1858} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_virtualenv
+[2024-07-18T22:56:15.248+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.246+0400] {override.py:1858} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_virtualenv
+[2024-07-18T22:56:15.294+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.293+0400] {override.py:1858} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_virtualenv
+[2024-07-18T22:56:15.296+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.295+0400] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-18T22:56:15.318+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.317+0400] {dag.py:3111} INFO - Creating ORM DAG for tutorial_taskflow_api_virtualenv
+[2024-07-18T22:56:15.321+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:15.320+0400] {dag.py:3947} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2024-07-18T22:56:15.408+0400] {processor.py:183} INFO - Processing /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 1.868 seconds

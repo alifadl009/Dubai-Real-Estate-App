@@ -1,0 +1,5 @@
+[2024-07-18T22:56:09.339+0400] {processor.py:161} INFO - Started process (PID=82105) to work on /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-07-18T22:56:09.341+0400] {processor.py:830} INFO - Processing file /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-07-18T22:56:09.346+0400] {logging_mixin.py:188} INFO - [2024-07-18T22:56:09.344+0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-07-18T22:56:09.407+0400] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-07-18T22:56:09.440+0400] {processor.py:183} INFO - Processing /mnt/c/Users/Administrator/Desktop/RS/.venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.123 seconds
