@@ -16,7 +16,7 @@ This is a comprehensive dashboard for analyzing Dubai real estate data. The appl
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/dubai-real-estate-app.git
+    git clone https://github.com/alifadl009/Dubai-Real-Estate-App/
     cd dubai-real-estate-app
     ```
 
@@ -36,7 +36,7 @@ This is a comprehensive dashboard for analyzing Dubai real estate data. The appl
 4. **Run the app:**
 
     ```bash
-    streamlit run app.py
+    streamlit run Overview.py
     ```
 
 ### Using Docker
@@ -77,7 +77,7 @@ The app includes an ETL process that updates the real estate data weekly. The ET
 2. **Run the ETL script:**
 
     ```bash
-    python etl.py
+    bash etl.sh
     ```
 
 ## Contributing
