@@ -66,7 +66,11 @@ Once the app is running, you can navigate through different sections:
 
 ## ETL Process
 
-The app includes an ETL process that updates the real estate data weekly. The ETL script processes the data and stores it in a format ready for visualization. To run the ETL process:
+The app includes an ETL process that updates the real estate data weekly. The ETL script processes the data and stores it in a format ready for visualization.
+
+### Running ETL Manually
+
+To run the ETL process manually, follow these steps:
 
 1. **Activate your virtual environment:**
 
@@ -77,8 +81,29 @@ The app includes an ETL process that updates the real estate data weekly. The ET
 2. **Run the ETL script:**
 
     ```bash
-    bash etl.sh
+    bash etl.py
     ```
+
+### Automating ETL with Cron
+
+To automate the ETL process, set up a cron job to run the `etl.sh` script weekly. Follow these steps:
+
+1. **Open your cron table:**
+
+    ```bash
+    crontab -e
+    ```
+
+2. **Add the following line to schedule the ETL script to run weekly (every Sunday at 2 AM):**
+
+    ```bash
+    0 2 * * 0 /path/etl.sh
+    ```
+
+   Replace `/path/` with the actual path to the directory where your `etl.sh` script is located.
+
+3. **Save and exit the cron editor.**
+
 
 ## Contributing
 
