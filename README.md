@@ -104,6 +104,14 @@ To automate the ETL process, set up a cron job to run the `etl.sh` script weekly
 
 3. **Save and exit the cron editor.**
 
+## Screenshots
+
+Here are some screenshots of the app in action:
+
+| ![Overview 1](static/1.png) | ![Overview 2](static/2.png) | ![Overview 3](static/3.png) |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![Overview 4](static/4.png) | ![Overview 5](static/5.png) | ![Overview 6](static/6.png) |
+| ![Overview 7](static/7.png) | ![Overview 8](static/8.png) | ![Overview 9](static/9.png) |
 
 ## Contributing
 
