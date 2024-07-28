@@ -3,3 +3,10 @@
 *.md
 *.pyc
 __pycache__
+
+
+# without airflow and credential
+airflow
+LICENSE
+.env
+.md
