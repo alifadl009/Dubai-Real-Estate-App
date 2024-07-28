@@ -50,7 +50,7 @@ This is a comprehensive dashboard for analyzing Dubai real estate data. The appl
 2. **Run the Docker container:**
 
     ```bash
-    docker run -p 8501:8501 dubai-real-estate-app
+    docker run -p 8501:8501 --name dubai-real-estate-app-container dubai-real-estate-app
     ```
 
 3. **Access the app:**
